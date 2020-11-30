@@ -10,6 +10,7 @@ def print_hi(name):
     print("first")
     print("second")
     print("third")
+    print("second")
 
 
 # Press the green button in the gutter to run the script.
