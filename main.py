@@ -11,6 +11,7 @@ def print_hi(name):
     print("second")
     print("third")
     print("second")
+    print("first")
 
 
 # Press the green button in the gutter to run the script.
